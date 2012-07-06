@@ -1,5 +1,5 @@
 src_files:
-  - "vendor/**/*.{js,coffee}"
+  - "vendor/assets/javascripts/underscore.js"
   - "lib/**/*.{js,coffee}"
   - "app/**/*.{js,coffee}"
 
@@ -14,6 +14,6 @@ helpers:
 spec_files:
   - "**/*[Ss]pec.{js,coffee}"
 
-src_dir: app/assets/javascripts
+src_dir:
 
 spec_dir: spec/javascripts

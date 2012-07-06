@@ -15,5 +15,5 @@
 /tmp
 
 # ignore javascript-headless-webkit cache
-*/.jhw-cache/
+.jhw-cache/
 jhw.*.html
